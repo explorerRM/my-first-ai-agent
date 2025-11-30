@@ -1,4 +1,11 @@
 # main.py
+
+
+## Project Structure
+- `agents/`: Agent implementations
+- `tools/`: Tools that agents can use
+- `main.py`: Entry point
+
 from agents.simple_agent import SimpleAgent
 from tools.basic_tools import search_tool, calculator_tool
 
